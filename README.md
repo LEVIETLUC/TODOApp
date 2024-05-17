@@ -2,7 +2,7 @@
 
 TODO App project
 
-# Video Demo
+## Video Demo
 
 https://github.com/LEVIETLUC/TODOApp/assets/73305887/5d8d0ba6-ef4c-4417-8ade-63fc3efe8914
 
